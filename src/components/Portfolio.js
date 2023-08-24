@@ -8,14 +8,14 @@ const Portfolio = () => {
         {
             id: 0,
             src: TaskFlow,
-            demo: "https://www.figma.com",
+            demo: "https://www.figma.com/file/fVSbr5dNaEyjGzJ5gcb25b/TaskFlow?type=design&node-id=0-1&mode=design",
             code: "https://github.com/nikkobaez/TaskFlow",
 
         },
         {
             id: 1,
             src: ClearSky,
-            demo: "https://www.figma.com",
+            demo: "https://www.figma.com/file/d53AimKJ5BjSItHpzrZbfK/ClearSky?type=design&node-id=0-1&mode=design",
             code: "https://github.com/nikkobaez/ClearSky",
         },
         {
