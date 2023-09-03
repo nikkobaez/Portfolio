@@ -21,7 +21,7 @@ const Home = () => {
                         <Typed className='text-3xl sm:text-5xl font-bold text-white' strings={['I\'m a student at the University of Houston', 'I\'m a Web and iOS Developer']} typeSpeed={150} backSpeed={120} backDelay={1200} showCursor={true}/>
                     ) : ( */}
                         <h2 className='text-3xl sm:text-5xl font-bold text-white'>
-                            I'm a Web and iOS Developer
+                            I'm a Web and Mobile Developer
                         </h2>
                     {/* )} */}
                     <p className='text-gray-500 py-4'>
