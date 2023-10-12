@@ -25,7 +25,7 @@ const Home = () => {
                         </h2>
                     {/* )} */}
                     <p className='text-gray-500 py-4'>
-                        Hello there! My name is Nikko Baez and I have 1 year of experience building web applications with React and 6 months of experience building iOS applicatons with SwiftUI and UIKit. My goal to one day be able to help businesses create and maintain their web and mobile applications motivates me to continue learning, growing, and expanding my skillset.
+                        Hello there! My name is Nikko Baez and I have 1 year of experience building web applications with React and 6 months of experience building iOS applicatons with SwiftUI and UIKit. My goal to one day be able to help businesses create and maintain their web and mobile applications motivates me to continue learning and expanding my skillset.
                     </p>
                     <div>
                         <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-105 duration-200'>
